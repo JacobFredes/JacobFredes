@@ -1,7 +1,7 @@
 ## Hi there I'm Jacob Fredes👋
 
 <p align="center">
-    <img width="200" src="[App_Development_with_Android_or_the_iOS.jp](https://www.simplilearn.com/ice9/free_resources_article_thumb/App_Development_with_Android_or_the_iOS.jpg)g">
+    <img width="200" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/App_Development_with_Android_or_the_iOS.jpg">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
