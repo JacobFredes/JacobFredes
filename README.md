@@ -2,7 +2,7 @@
    <h1 align="center">Hi there I'm Jacob👋</h1>
 </p>
 <p align="center">
-    <img width="1000" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/App_Development_with_Android_or_the_iOS.jpg">
+    <img width="1000" src="https://ibb.co/mc3G0qb">
 </p>
 
 <h1> Thanks to visit my profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
