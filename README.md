@@ -2,7 +2,7 @@
    <h1 align="center">Hi there I'm Jacob👋</h1>
 </p>
 <p align="center">
-    <img width="1000" src="https://ibb.co/mc3G0qb">
+    <img width="1000" src="https://i.ibb.co/yQrXpyd/Screenshot-2024-07-14-at-9-06-23-PM.png">
 </p>
 
 <h1> Thanks to visit my profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
