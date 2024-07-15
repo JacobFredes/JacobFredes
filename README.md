@@ -1,23 +1,20 @@
 <p align="center">
-   <h1 align="center">Hi there I'm Jacob 👋</h1>
+   <h1 align="center">Hi there I'm < Jacob > 👋</h1>
 </p>
 <p align="center">
     <img width="1000" src="https://i.ibb.co/yQrXpyd/Screenshot-2024-07-14-at-9-06-23-PM.png">
 </p>
 
-<h1> About me</h1>
-<p> Thank you for taking the time to view my GitHub Profile :smile: , I hope you find what you are looking for , I'm living in Argentina   </p>
-<p align='center'>
-</p>
+<h1> About me / Sobre mim</h1>
+<p> Thank you for taking the time to view my GitHub Profile :smile: , I hope you find what you are looking for </p>
 
-<div size='20px'> 
-</div>
+<br>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studing at UTN where the main language is C++ 
-- 🌱 Learning Swift and Kotlin for the mobile development
-- 👯 
+- 🔭 I’m studing an associate´s degree in Programming at UTN where we use C++ in classes.
+- 🔭 Estou estudando a 
+- 🌱 I'm also learning Swift and Kotlin for mobile development.
+- 👯 I like learning languages in my free time (English and Portuguese)
 - 💬 
   
 - ⚡ Fun fact: I like to study languages.
