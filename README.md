@@ -12,7 +12,6 @@
 
 
 - 🔭 I’m studing an associate´s degree in Programming at UTN where we use C++ in classes.
-- 🔭 Estou estudando a 
 - 🌱 I'm also learning Swift and Kotlin for mobile development.
 - 👯 I like learning languages in my free time (English and Portuguese)
 - 💬 
