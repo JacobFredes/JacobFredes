@@ -5,7 +5,7 @@
     <img width="1000" src="https://i.ibb.co/yQrXpyd/Screenshot-2024-07-14-at-9-06-23-PM.png">
 </p>
 
-<h1> About me / Sobre mim</h1>
+<h1> About me </h1>
 <p> Thank you for taking the time to view my GitHub Profile :smile: , I hope you find what you are looking for </p>
 
 <br>
@@ -18,4 +18,10 @@
 - ⚡ 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
+<h2> Best Proyects </h2>
+<table align="center">
+   <tr>
+      <th width=400px> Proyecto 1 </th>
+      <th width=400px> Proyecto 2 </th>
+   </tr>
+</table>
