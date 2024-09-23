@@ -29,7 +29,7 @@
       <th width=400px> 
          <h2> iOS / Calculator </h2>
          <img height=300px src="https://i.ibb.co/pWxJRLM/Screenshot-2024-07-16-at-2-35-00-AM.png">
-         <p> Juego de cartas llamado "Embaucadora" </p>
+         <p> Calculadora" </p>
       </th>
    </tr>
 </table>
