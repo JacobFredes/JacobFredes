@@ -21,7 +21,7 @@
 - 🔭 xCode / Android Stuido.<br>
 - 🔭 VSC.<br>
 - 🔭 Windows / Mac Os.<br>
-- 🔭 Technical Documention.<br>
+- 🔭 Use of Technical Documention.<br>
 
 <h2> Best Proyects </h2>
 <table align="center">
